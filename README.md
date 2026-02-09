@@ -11,6 +11,10 @@ Drop-in React components for Bitcoin Lightning payments. Add a payment checkout 
 npm install neutron-react
 ```
 
+## Prerequisites
+
+Sign up at [portal.neutron.me](https://portal.neutron.me) to get your API key and secret. You'll need [neutron-sdk](https://www.npmjs.com/package/neutron-sdk) on your backend.
+
 ## Quick Start
 
 ```jsx
