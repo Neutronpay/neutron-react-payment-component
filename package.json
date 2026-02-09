@@ -35,7 +35,7 @@
   "homepage": "https://neutron.me",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neutronpay/neutron-react.git"
+    "url": "git+https://github.com/Neutronpay/neutron-react-payment-component.git"
   },
   "peerDependencies": {
     "react": ">=18.0.0",

@@ -242,7 +242,7 @@ export default function Checkout() {
 - [neutron-sdk](https://www.npmjs.com/package/neutron-sdk) — TypeScript SDK for the backend
 - [neutron-mcp](https://www.npmjs.com/package/neutron-mcp) — MCP server for AI agents
 - [Docs](https://docs.neutron.me)
-- [GitHub](https://github.com/Neutronpay/neutron-react)
+- [GitHub](https://github.com/Neutronpay/neutron-react-payment-component)
 
 ## License
 
