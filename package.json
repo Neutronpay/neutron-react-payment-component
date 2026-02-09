@@ -1,6 +1,6 @@
 {
   "name": "neutron-react",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React components for Neutron Bitcoin Lightning payments — drop-in checkout in one line",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -32,10 +32,13 @@
   ],
   "author": "Neutron <support@neutron.me>",
   "license": "MIT",
-  "homepage": "https://neutron.me",
+  "homepage": "https://docs.neutron.me",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neutronpay/neutron-react-payment-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neutronpay/neutron-react-payment-component/issues"
   },
   "peerDependencies": {
     "react": ">=18.0.0",
