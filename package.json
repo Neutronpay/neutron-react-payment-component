@@ -1,6 +1,6 @@
 {
   "name": "neutron-react",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React components for Neutron Bitcoin Lightning payments — drop-in checkout in one line",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
